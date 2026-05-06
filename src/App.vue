@@ -17,20 +17,21 @@
       <section class="hero">
         <div class="container hero-grid reveal">
           <article class="panel hero-main">
-            <div class="eyebrow">企业级前端开发工程师 · 3年工作经验</div>
+            <div class="eyebrow">Enterprise Frontend Engineer · 3 Years of Experience</div>
             <h1 class="hero-title">李梦飞<span class="accent">.</span></h1>
-            <div class="hero-subtitle">专注企业级前端开发，擅长 Vue 生态、实时数据可视化与复杂业务系统落地</div>
+            <div class="hero-subtitle">专注 Vue 生态、实时数据可视化与企业级业务系统交付</div>
             <p class="hero-summary">
-              长期参与能源管理、智慧园区、物联网平台、可视化大屏、H5 与后台系统建设。熟悉从业务理解、页面实现、组件封装到性能优化的完整链路，能够在 B 端复杂场景中持续输出稳定、流畅且可维护的前端方案。
+              我长期参与能源管理、智慧园区、物联网平台、可视化大屏、H5 与后台系统建设。
+              擅长在复杂 B 端场景中处理实时数据、图表展示、性能优化与可维护性问题，持续交付稳定、清晰且具备业务价值的前端方案。
             </p>
             <div class="hero-actions">
               <a class="btn btn-primary" href="#featured">查看精选项目</a>
               <a class="btn btn-ghost" href="mailto:1351468279@qq.com">联系我</a>
             </div>
             <div class="hero-metrics">
-              <div class="metric"><div class="num">3年</div><div class="txt">前端开发经验，持续参与真实业务项目交付</div></div>
-              <div class="metric"><div class="num">7+</div><div class="txt">能源、物联网、后台与 H5 项目经历</div></div>
-              <div class="metric"><div class="num">Vue 双栈</div><div class="txt">兼具 Vue2 / Vue3 企业级项目落地经验</div></div>
+              <div class="metric"><div class="num">3年</div><div class="txt">持续参与真实企业项目开发与交付</div></div>
+              <div class="metric"><div class="num">7+</div><div class="txt">覆盖能源、物联网、后台与 H5 等项目场景</div></div>
+              <div class="metric"><div class="num">Vue 双栈</div><div class="txt">具备 Vue2 / Vue3 企业级落地经验</div></div>
             </div>
           </article>
 
@@ -47,7 +48,7 @@
                 <div class="meta"><div class="k">求职方向</div><div class="v">前端开发工程师</div></div>
                 <div class="meta"><div class="k">期望城市</div><div class="v">南京</div></div>
                 <div class="meta"><div class="k">邮箱</div><div class="v">1351468279@qq.com</div></div>
-                <div class="meta"><div class="k">个人信息</div><div class="v">男 · 26岁 · 本科</div></div>
+                <div class="meta"><div class="k">教育背景</div><div class="v">本科 · 数字媒体技术</div></div>
               </div>
             </div>
             <div class="tag-group">
@@ -69,26 +70,26 @@
             <div class="section-head">
               <div>
                 <h2 class="section-title">关于我</h2>
-                <p class="section-desc">不是只会写页面，而是更关注复杂业务如何被稳定、高质量地落到产品里。</p>
+                <p class="section-desc">我更关心的不是单个页面，而是复杂业务如何被高质量地落到产品里。</p>
               </div>
             </div>
             <p class="section-desc" style="margin-top: 0">
-              我主要面向企业级前端项目，长期参与能源管理、工业互联网、智慧园区、可视化大屏与后台管理系统开发，熟悉需求分析、UI 还原、前后端协作、组件封装、性能优化以及项目交付流程。
+              我主要面向企业级前端项目，长期参与能源管理、工业互联网、智慧园区、可视化大屏与后台管理系统开发，熟悉需求理解、界面实现、前后端协作、组件封装、性能优化以及项目交付流程。
             </p>
             <p class="section-desc">
-              在具体实践中，我擅长处理实时数据通信、复杂列表渲染、动态图表展示、动态路由与权限场景，也能将工程化思维落到项目代码结构与复用能力建设中。
+              在具体实践中，我更擅长处理实时数据通信、复杂列表渲染、动态图表展示、动态路由与权限场景，并将工程化思维落到代码结构、复用能力与长期维护上。
             </p>
           </div>
           <div class="panel content-panel reveal" id="skills">
             <div class="section-head">
               <div>
                 <h2 class="section-title">能力模型</h2>
-                <p class="section-desc">以业务理解、工程实现、性能优化与交互体验为核心能力轴。</p>
+                <p class="section-desc">围绕业务理解、工程实现、性能优化与体验质量建立自己的工作方式。</p>
               </div>
             </div>
             <div class="ability-grid">
               <div class="ability"><h3>业务理解</h3><p>能够快速理解 B 端平台、设备管理、监控调度等业务结构，并转化为清晰的前端实现方案。</p></div>
-              <div class="ability"><h3>工程实现</h3><p>熟悉 Vue 生态开发模式，能完成组件化、模块化、路由与状态管理设计。</p></div>
+              <div class="ability"><h3>工程实现</h3><p>熟悉 Vue 生态开发模式，能够完成组件化、模块化、路由与状态管理设计。</p></div>
               <div class="ability"><h3>性能优化</h3><p>具备实时数据、海量列表、超万点图表等高复杂场景的优化经验。</p></div>
               <div class="ability"><h3>交互体验</h3><p>能够根据设计稿高质量还原界面，并兼顾操作效率、页面流畅度与可维护性。</p></div>
             </div>
@@ -115,8 +116,8 @@
           <div class="panel content-panel reveal">
             <div class="section-head">
               <div>
-                <h2 class="section-title">我做过的场景</h2>
-                <p class="section-desc">这些项目场景构成了我当前最有辨识度的专业方向。</p>
+                <h2 class="section-title">项目场景</h2>
+                <p class="section-desc">这些场景定义了我当前最有辨识度的专业方向。</p>
               </div>
             </div>
             <div class="scene-grid">
@@ -138,7 +139,7 @@
           <div class="section-head reveal">
             <div>
               <h2 class="section-title">精选项目</h2>
-              <p class="section-desc">从“做过项目”升级为“能讲清楚我解决过什么问题”。以下 3 个项目最能体现我的核心能力。</p>
+              <p class="section-desc">以下三个项目最能体现我在复杂业务场景中的前端实现能力。</p>
             </div>
           </div>
 
@@ -154,8 +155,8 @@
               <div class="project-grid-inner">
                 <div>
                   <p><strong>核心职责：</strong>负责实时数据接入、大屏图表渲染、海量列表性能优化与状态管理设计。</p>
-                  <p><strong>技术亮点：</strong>基于 MQTT 订阅电站主题，服务层采用缓冲队列 + 100ms 批处理写入 Pinia；图表使用 ECharts 渲染功率曲线与仪表盘，并对超万点序列使用 LTTB 降采样；通过自研虚拟滚动支撑万级电站/告警列表展示。</p>
-                  <p><strong>难点突破：</strong>降低高频实时数据对主线程的压力，在大屏与列表场景下尽可能保持流畅渲染与交互可用性。</p>
+                  <p><strong>技术亮点：</strong>基于 MQTT 订阅电站主题，服务层采用缓冲队列 + 100ms 批处理写入 Pinia；图表使用 ECharts 渲染功率曲线与仪表盘，并对超万点序列使用 LTTB 降采样；通过自研虚拟滚动支撑万级电站与告警列表展示。</p>
+                  <p><strong>结果价值：</strong>在高频数据更新场景中平衡实时性、流畅度与可维护性，支撑更复杂的监控页面交付。</p>
                   <div class="stack"><span>Vue 3</span><span>Pinia</span><span>Element Plus</span><span>ECharts</span><span>WebSocket</span><span>MQTT</span></div>
                 </div>
                 <aside class="mini-board">
@@ -181,7 +182,7 @@
                 <div>
                   <p><strong>核心职责：</strong>负责实时消息通信模块、设备消息监控界面和大体量消息展示优化。</p>
                   <p><strong>技术亮点：</strong>通过 WebSocket 与后端网关进行实时消息通信，支撑应用生命周期管理、子设备管理和控制命令下发；使用虚拟列表对超大量消息进行优化展示。</p>
-                  <p><strong>能力体现：</strong>体现了我在设备接入型平台、实时消息流与性能优化方面的实践经验。</p>
+                  <p><strong>结果价值：</strong>体现了我在设备接入型平台、实时消息流与性能优化方面的持续实践经验。</p>
                   <div class="stack"><span>Vue 2</span><span>Vue Router 3</span><span>Vuex 3</span><span>Element UI</span><span>Axios</span><span>WebSocket</span></div>
                 </div>
                 <aside class="mini-board">
@@ -207,7 +208,7 @@
                 <div>
                   <p><strong>核心职责：</strong>负责 H5 与后台系统功能开发、权限控制、组件复用与性能优化。</p>
                   <p><strong>技术亮点：</strong>H5 端采用 Vant 组件库、路由懒加载与 GZIP 压缩，使首屏加载时间降低 30%；后台系统实现 RBAC 权限控制、Excel 批量导入导出以及高复用业务组件封装。</p>
-                  <p><strong>能力体现：</strong>说明我不仅能做大屏和平台，也具备业务后台、移动端和实际交付场景的综合开发能力。</p>
+                  <p><strong>结果价值：</strong>说明我不仅能做大屏和平台，也具备业务后台、移动端和实际交付场景的综合开发能力。</p>
                   <div class="stack"><span>Vue 3</span><span>TypeScript</span><span>Pinia</span><span>Socket.io</span><span>Element Plus</span><span>Vant</span></div>
                 </div>
                 <aside class="mini-board">
@@ -235,7 +236,7 @@
           <div class="simple-projects reveal">
             <div class="simple-item"><h4>新能源电力系统框架</h4><p>基于若依 Vue2 基建构建动态路由框架，支持第三方公司页面无缝接入，实现菜单动态生成与性能优化。</p></div>
             <div class="simple-item"><h4>智慧安装管理云平台</h4><p>通过 postMessage 与主框架通信，支持 iframe 嵌入与独立访问，并集成实时视频播放能力。</p></div>
-            <div class="simple-item"><h4>智慧园区项目</h4><p>实现发电/负荷、充放电、功率等曲线与排名展示，支持多级筛选与近实时数据监控。</p></div>
+            <div class="simple-item"><h4>智慧园区项目</h4><p>实现发电、负荷、充放电与功率等曲线和排名展示，支持多级筛选与近实时监控。</p></div>
             <div class="simple-item"><h4>工商储可视化大屏</h4><p>开发内网电力数据大屏，集成图表与地图展示电站实时数据，并结合 GeoJSON 处理完成地图可视化。</p></div>
           </div>
         </div>
@@ -278,7 +279,7 @@
             <div class="section-head">
               <div>
                 <h2 class="section-title">教育背景</h2>
-                <p class="section-desc">扎实的数字媒体技术背景，为前端开发与交互理解提供基础。</p>
+                <p class="section-desc">数字媒体技术背景，为前端开发与交互理解提供了良好的基础。</p>
               </div>
             </div>
             <article class="timeline-item" style="background: rgba(255,255,255,.03); box-shadow:none;">
@@ -289,7 +290,7 @@
                 </div>
                 <div class="time">2019 - 2023</div>
               </div>
-              <p>学习期间形成了对视觉表达、数字内容与交互设计的基础理解，后续逐步转向企业级前端方向并持续深耕。</p>
+              <p>在学习期间形成了对视觉表达、数字内容与交互设计的理解，并在后续工作中逐步转向企业级前端方向持续深耕。</p>
             </article>
           </div>
         </div>
@@ -302,8 +303,8 @@
               <div>
                 <h2>期待加入优秀团队</h2>
                 <p>
-                  我希望继续专注企业级前端方向，在更有挑战的业务场景中，打造稳定、流畅且有业务价值的产品界面。
-                  如果你的团队在寻找一位具备 Vue 生态、可视化、实时通信与 B 端经验的前端工程师，欢迎联系我。
+                  我希望继续专注企业级前端方向，在更有挑战的业务场景中打造稳定、流畅且有业务价值的产品界面。
+                  如果你的团队正在寻找一位具备 Vue 生态、可视化、实时通信与 B 端经验的前端工程师，欢迎联系我。
                 </p>
               </div>
               <div class="contact-list">
@@ -317,7 +318,7 @@
       </section>
     </main>
 
-    <footer class="footer container">© 2026 李梦飞 · Advanced Resume Website · Built for online portfolio showcase.</footer>
+    <footer class="footer container">© 2026 李梦飞 · Advanced Resume Website · Built with Vue 3 and Vite.</footer>
   </div>
 </template>
 
